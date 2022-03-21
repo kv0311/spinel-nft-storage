@@ -1,0 +1,22 @@
+{
+  "name": "spinel-nft-storage",
+  "version": "1.0.0",
+  "description": "build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kv0311/spinel-nft-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kv0311/spinel-nft-storage/issues"
+  },
+  "homepage": "https://github.com/kv0311/spinel-nft-storage#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
