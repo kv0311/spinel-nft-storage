@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 3000
+const port = 1998
 app.use('/img',express.static('SpinelNFT'))
 app.use('/metadata',express.static('SpinelMetadata'))
 
